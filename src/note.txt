@@ -1,0 +1,25 @@
+-- user
+đăng kí xong(đã validate)
+đăng nhập xong(đã validate)
+get one xong
+get list xong(đã có phân trang)
+-- friend
+get list xong(đã có phân trang)
+gửi kết bạn xong(đã có valiadate)
+xử lí yêu cầu kết bạn xong(đã có valiadate)
+xóa bạn bè xong
+gợi ý danh sách bạn bè xong
+-- post
+tạo bài viết xong(đã validate)
+cập nhật bài viết(đã valiadate)
+xóa bài viết
+lấy tất cả bài viết của mình(đã phân trang)
+vào trang cá nhân của người khác(chưa phân trang)
+như là trang chủ trên fb(đã phân trang)
+-- like
+like bài viết
+-- comment
+bình luận bài viết
+danh sách comment của 1 bài viết
+
+
